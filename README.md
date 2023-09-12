@@ -298,6 +298,8 @@
 
 [Python for Data Analysis](https://wesmckinney.com/book/)       
 
+[Python for Data Science](https://aeturrell.github.io/python4DS)       
+
 ### Q
 
 [Quantitative Economics with Python](https://networks.quantecon.org/)                               
