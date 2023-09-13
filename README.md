@@ -75,8 +75,6 @@
 
 [Convex Optimization](https://github.com/YinTat/optimizationbook/blob/main/main.pdf) 
 
-[Course in Machine Learning and Optimization](https://chewisinho.github.io/main.pdf)        
-
 
 
 
@@ -217,7 +215,10 @@
 
 
 
-[Lecture Notes on Financial Mathematics](https://arxiv.org/pdf/1912.13213.pdf)                                            
+[Lecture Notes on Financial Mathematics](https://arxiv.org/pdf/1912.13213.pdf)             
+
+[Log-Concave Sampling](https://chewisinho.github.io/main.pdf)        
+
 
 
 
