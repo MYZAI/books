@@ -376,8 +376,6 @@
 
 ### W
 
-[Web Data Mining](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3rd-Edition-Final.pdf) 
-
 [What are embeddings](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf)
 
 
