@@ -85,8 +85,6 @@
 
 [Data Structures and Information Retrieval in Python](https://allendowney.github.io/DSIRP/)       
 
-[Data Structures and Algorithms in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) 
-
 [Deep Learning on Graphs](https://cse.msu.edu/~mayao4/dlg_book/)           
 
 
@@ -288,6 +286,9 @@
 
 
 [Probability Theory: The Logic of Science](http://prob140.org/textbook/content/README.html)          
+
+
+[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) 
 
 
 [Programming for Computations](http://hplgit.github.io/prog4comp/doc/pub/p4c-sphinx-Python/index.html) 
