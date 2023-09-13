@@ -274,8 +274,6 @@
 [Physics-Based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)   
 
 
-[Principles of Data Mining](https://homepages.dcc.ufmg.br/~mirella/pdf/Principles_of_Data_Mining.pdf) 
-
 [Probabilistic Machine Learning Book 1](https://probml.github.io/pml-book/book1.html)                  
 
 [Probabilistic Machine Learning Book](https://probml.github.io/pml-book/book2.html)                 
