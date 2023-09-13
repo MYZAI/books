@@ -81,9 +81,6 @@
 ### D
 
 
-[Data Mining: Concepts and Techniques](http://www.cs.uoi.gr/~tsap/teaching/dm_book.pdf)     
-
-
 [Data Science and Machine Learning](https://people.smp.uq.edu.au/DirkKroese/DSML/DSML.pdf)
 
 [Data Science in R: A Case Studies Approach](https://allendowney.github.io/DSIRP/)       
