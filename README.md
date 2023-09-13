@@ -83,7 +83,7 @@
 
 [Data Science and Machine Learning](https://people.smp.uq.edu.au/DirkKroese/DSML/DSML.pdf)
 
-[Data Science in R: A Case Studies Approach](https://allendowney.github.io/DSIRP/)       
+[Data Structures and Information Retrieval in Python](https://allendowney.github.io/DSIRP/)       
 
 [Data Structures and Algorithms in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) 
 
