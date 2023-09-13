@@ -240,7 +240,7 @@
 [Modeling with R](https://jmzobitz.github.io/ModelingWithR/)                                                             
 
 
-[Modern Data Science with R (2nd Edition)](https://mdsr-book.github.io/mdsr2e/)       
+[Modern Data Science with R (3nd Edition)](https://mdsr-book.github.io/mdsr3e/)       
 
 [Multi-Agent Reinforcement Learning](https://www.marl-book.com/)                   
 
