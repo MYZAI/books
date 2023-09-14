@@ -231,6 +231,8 @@
 
 [Mixtape: Causal Inference for Statistics](https://mixtape.scunning.com/)          
 
+[Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/index.html)
+
 
 [Modeling with R](https://jmzobitz.github.io/ModelingWithR/)                                                             
 
@@ -297,7 +299,6 @@
 
 [Python for Data Science](https://aeturrell.github.io/python4DS)    
 
-[Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/index.html)
 
 ### Q
 
