@@ -295,7 +295,9 @@
 
 [Python for Data Analysis](https://wesmckinney.com/book/)       
 
-[Python for Data Science](https://aeturrell.github.io/python4DS)       
+[Python for Data Science](https://aeturrell.github.io/python4DS)    
+
+[Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/index.html)
 
 ### Q
 
