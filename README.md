@@ -324,6 +324,7 @@
 
 [Reinforcement Learning Theory](https://rltheorybook.github.io/)                 
 
+[Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems)
 
 [Robotics](https://www.roboticsbook.org/intro.html)     
 
