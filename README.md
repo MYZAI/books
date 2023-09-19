@@ -239,7 +239,7 @@
 
 [Modern Data Science with R (3nd Edition)](https://mdsr-book.github.io/mdsr3e/)       
 
-[Modern Statistics for Modern Biology](Modern Statistics for Modern Biology)
+[Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/)
 
 [Multi-Agent Reinforcement Learning](https://www.marl-book.com/)                   
 
@@ -358,6 +358,8 @@
 [The Science of Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/)      
 
 [The Systems Bible](https://book.systemsapproach.org/)                             
+
+[Think Stats](https://greenteapress.com/wp/think-stats-2e/)
 
 [The Time Series Handbook](https://phdinds-aim.github.io/time_series_handbook)     
 
