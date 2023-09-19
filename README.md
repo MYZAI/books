@@ -239,6 +239,8 @@
 
 [Modern Data Science with R (3nd Edition)](https://mdsr-book.github.io/mdsr3e/)       
 
+[Modern Statistics for Modern Biology](Modern Statistics for Modern Biology)
+
 [Multi-Agent Reinforcement Learning](https://www.marl-book.com/)                   
 
 
