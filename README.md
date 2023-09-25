@@ -146,6 +146,8 @@
 
 [How to Think Like a Computer Scientist](https://runestone.academy/ns/books/published/thinkcspy/index.html) 
 
+[Human-Robot Interaction — An Introduction](https://www.human-robot-interaction.org/)
+
 
 
 ### I
