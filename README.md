@@ -6,6 +6,8 @@
 
 [Algorithmic Game Theory ](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) 
 
+[Algorithmic High-Dimensional Robust Statistics](https://sites.google.com/view/ars-book/)
+
 [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) 
 
 [Algorithms, Part I](https://algs4.cs.princeton.edu/home/)        
