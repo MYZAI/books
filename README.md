@@ -46,7 +46,8 @@
 
 [Bayes Rules](https://www.bayesrulesbook.com/)     
 
-[Business Intelligence](https://bookdown.org/peter.bosman/bi/)      
+
+[A Business Analyst’s Introduction to Business Analytics](https://www.causact.com/)
 
 
 
