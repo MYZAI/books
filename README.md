@@ -27,6 +27,8 @@
 
 [An Introduction to Statistical Learning](https://www.statlearning.com/)       
 
+[An Owner's Guide to the Human Genome](https://web.stanford.edu/group/pritchardlab/HGbook.html)
+
 [Annotated Algorithms in Python](https://github.com/mdipierro/nlib)                                                                    
 
 
