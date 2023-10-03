@@ -115,8 +115,6 @@
 [Elements of Causal Inference](http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf) 
 
 
-[The Elements of Statistical Learning](https://www.smlbook.org)                  
-
 
 
 ### F
@@ -225,6 +223,9 @@
 
 
 ### M
+
+[Machine Learning - A First Course for Engineers and Scientists](https://www.smlbook.org)                  
+
 
 [Machine Learning Basics](https://alexjungaalto.github.io/MLBasicsBook.pdf)        
 
