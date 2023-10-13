@@ -160,10 +160,10 @@
 
 [Information Theory: From Coding to Learning](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf)
 
-[Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)    
-
 [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)   
 
+
+[Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)    
 
 
 [Introduction to Automata Theory, Languages, and Computation](https://inpercima.github.io/automata-theory-slides/)    
@@ -197,6 +197,8 @@
 [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)
 
 [Introduction to Smooth Manifolds](https://sagemanifolds.obspm.fr/intro_to_manifolds.html)        
+
+[Introduction to Modern Statistics](https://openintro-ims.netlify.app)
 
 [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html)      
 
