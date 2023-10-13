@@ -69,7 +69,7 @@
 
 [Computational Complexity](https://hardness.mit.edu/)                
 
-
+[Welcome to Computational Discovery on Jupyter](https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/index.html)
 
 [Computational Topology for Data Analysis](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html) 
 
