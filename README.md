@@ -98,6 +98,8 @@
 
 [Deep Learning with PyTorch](https://www.tomasbeuzen.com/deep-learning-with-pytorch)      
 
+[Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)
+
 [Distributional Reinforcement Learning](https://www.distributional-rl.org/)                   
 
 
