@@ -316,6 +316,8 @@
 
 ### Q
 
+[Qualitative Dynamics and Chaos](https://aghostinthefigures.com/qualitative-dynamics-and-chaos)
+
 [Quantitative Economics with Python](https://networks.quantecon.org/)                               
 
 
