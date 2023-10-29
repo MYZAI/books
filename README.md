@@ -219,7 +219,9 @@
 
 
 
-[Lecture Notes on Financial Mathematics](https://arxiv.org/pdf/1912.13213.pdf)             
+[Lecture Notes on Financial Mathematics](https://arxiv.org/pdf/1912.13213.pdf)     
+
+[Linear Algebra Done Right](https://linear.axler.net/)
 
 [Log-Concave Sampling](https://chewisinho.github.io/main.pdf)        
 
