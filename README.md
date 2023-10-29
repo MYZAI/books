@@ -176,7 +176,7 @@
 [Introduction to Causal Inference](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)       
 
 
-[Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) 
+[Introduction to Classical and Quantum Computing](http://www.thomaswong.net) 
 
 
 [Introduction to Control Systems](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Introduction_to_Control_Systems_(Iqbal))
