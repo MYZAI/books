@@ -406,7 +406,7 @@
 
 ### More
 
-[Optimization]https://github.com/ebrahimpichka/awesome-optimization#books-and-lecture-notes()
+[Optimization](https://github.com/ebrahimpichka/awesome-optimization#books-and-lecture-notes)
  
 [Executable Books](https://executablebooks.org/en/latest/gallery.html)         
 
