@@ -291,6 +291,8 @@
 
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
+[Physically Based Rendering](https://www.pbr-book.org/4ed/contents)
+
 [Physics-Based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)   
 
 
