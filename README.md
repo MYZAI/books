@@ -29,7 +29,9 @@
 
 [An Owner's Guide to the Human Genome](https://web.stanford.edu/group/pritchardlab/HGbook.html)
 
-[Annotated Algorithms in Python](https://github.com/mdipierro/nlib)                                                                    
+[Annotated Algorithms in Python](https://github.com/mdipierro/nlib)       
+
+[Applied Machine Learning](https://kuleshov-group.github.io/aml-book/intro.html)
 
 
 [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.html) 
