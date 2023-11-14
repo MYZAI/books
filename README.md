@@ -247,6 +247,8 @@
 
 [Measure Theory](https://measure.axler.net/)   
 
+[Mechanical Engineering Methods](https://kyleniemeyer.github.io/ME373-book/content/intro.html)
+
 [Mixtape: Causal Inference for Statistics](https://mixtape.scunning.com/)          
 
 [Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/index.html)
