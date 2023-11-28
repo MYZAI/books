@@ -283,6 +283,8 @@
 
 [Numerical Methods](https://numericalmethodssullivan.github.io/)   
 
+[Numerical methods for partial differential equations](https://aquaulb.github.io/book_solving_pde_mooc/solving_pde_mooc/notebooks/01_Introduction/01_00_Preface.html)
+
 [Numerical Methods for Scientists and Engineers](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) 
 
 [Numerical Optimization](https://sma.epfl.ch/~nboumal/book/index.html)     
