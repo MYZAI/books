@@ -197,6 +197,8 @@
 
 [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html)      
 
+[Introduction to Partial Differential Equations](
+https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_Partial_Differential_Equations_(Herman))
 
 [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)
 
