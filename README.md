@@ -100,6 +100,8 @@
 
 [Deep Learning with PyTorch](https://www.tomasbeuzen.com/deep-learning-with-pytorch)      
 
+[Differential Equations (Chasnov)](https://math.libretexts.org/Bookshelves/Differential_Equations/Differential_Equations_(Chasnov))
+
 [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)
 
 [Distributional Reinforcement Learning](https://www.distributional-rl.org/)                   
