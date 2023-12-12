@@ -92,6 +92,8 @@
 
 [Data Structures and Information Retrieval in Python](https://allendowney.github.io/DSIRP/)       
 
+[Deep Learning](https://www.bishopbook.com/)
+
 [Deep Learning on Graphs](https://cse.msu.edu/~mayao4/dlg_book/)           
 
 
