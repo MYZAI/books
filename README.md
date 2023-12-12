@@ -420,7 +420,7 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 
 
-### Daha Fazlası için:
+### Daha Fazlası İçin:
 
 [Optimization](https://github.com/ebrahimpichka/awesome-optimization#books-and-lecture-notes)
  
