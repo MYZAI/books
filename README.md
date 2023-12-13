@@ -243,6 +243,7 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Machine Learning Basics](https://alexjungaalto.github.io/MLBasicsBook.pdf)        
 
+[Machine Learning Systems](https://harvard-edge.github.io/cs249r_book/)
 
 [Machine Learning Story](https://mlstory.org/)          
 
