@@ -94,6 +94,8 @@
 
 [Deep Learning](https://www.bishopbook.com/)
 
+[Deep Learning Engineering](https://deeplearningmath.org/)
+
 [Deep Learning on Graphs](https://cse.msu.edu/~mayao4/dlg_book/)           
 
 
