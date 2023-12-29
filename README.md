@@ -134,6 +134,9 @@
 
 [Forecasting: Principles and Practice](https://otexts.com/fpp3/)    
 
+[Foundation Models for Natural Language Processing](https://link.springer.com/book/10.1007/978-3-031-23190-2)     
+
+
 [Fundamentals of Numerical Computation](https://tobydriscoll.net/fnc-julia/frontmatter.html) 
 
 
@@ -277,7 +280,6 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Nature of Code](https://natureofcode.com/book/chapter-1-vectors/)   
 
-[Natural Language Processing with Python](https://link.springer.com/book/10.1007/978-3-031-23190-2)     
 
 [Network Analysis Made Simple](https://ericmjl.github.io/Network-Analysis-Made-Simple/)       
 
