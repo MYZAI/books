@@ -136,6 +136,7 @@
 
 [Foundation Models for Natural Language Processing](https://link.springer.com/book/10.1007/978-3-031-23190-2)     
 
+[Functional Data Structures and Algorithms](https://functional-algorithms-verified.org/)
 
 [Fundamentals of Numerical Computation](https://tobydriscoll.net/fnc-julia/frontmatter.html) 
 
