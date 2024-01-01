@@ -388,9 +388,6 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Technical Analysis with R (Second Edition)](https://bookdown.org/kochiuyu/technical-analysis-with-r-second-edition2/)  
 
-
-[The Algorithm Design Manual](https://www.algorist.com/)  
-
 [The Effect: An Introduction to Research Design](https://theeffectbook.net/)           
 
 
