@@ -263,6 +263,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Mixtape: Causal Inference for Statistics](https://mixtape.scunning.com/)          
 
+[Model Based Machine Learning](https://www.mbmlbook.com/index.html)
+
 [Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/index.html)
 
 
