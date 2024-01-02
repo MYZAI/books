@@ -288,7 +288,7 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Network Analysis Made Simple](https://ericmjl.github.io/Network-Analysis-Made-Simple/)       
 
-
+[Network Science](http://networksciencebook.com/)
 
 [Notes on Continuous Optimization](https://arxiv.org/pdf/2206.13446.pdf)           
 
