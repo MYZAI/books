@@ -358,6 +358,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [R for Data Science](https://r4ds.hadley.nz/)      
 
+[Random Matrix Methods for Machine Learning](https://zhenyu-liao.github.io/book/)
+
 [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)        
 
 [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)     
