@@ -382,6 +382,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)     
 
+[Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf)
+
 [Spatial Statistics for Data Science](https://www.paulamoraga.com/book-spatial/) 
 
 
