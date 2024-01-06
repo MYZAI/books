@@ -445,6 +445,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Open Textbook Library](https://open.umn.edu/opentextbooks/subjects)   
 
+[Kenneth Kuttler](https://klkuttler.com/)
+
 
 
 
