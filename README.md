@@ -145,6 +145,8 @@
 
 ### G
 
+[Game Theory](https://faculty.econ.ucdavis.edu/faculty/bonanno/PDF/GT_book.pdf)
+
 [Geospatial Data Science with Leafmap](https://book.leafmap.org/index.html)
 
 [Graph Neural Networks](https://graph-neural-networks.github.io/index.html)   
