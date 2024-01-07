@@ -239,6 +239,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Linear Algebra Done Right](https://linear.axler.net/)
 
+[Linear Algebra, Theory And Application](https://klkuttler.com/book/Linearalgebra/1)
+
 [Log-Concave Sampling](https://chewisinho.github.io/main.pdf)        
 
 
@@ -448,6 +450,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 [Open Textbook Library](https://open.umn.edu/opentextbooks/subjects)   
 
 [Kenneth Kuttler](https://klkuttler.com/)
+
+[Giacomo  Bonanno](https://faculty.econ.ucdavis.edu/faculty/bonanno/Books.html)
 
 
 
