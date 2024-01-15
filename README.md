@@ -212,6 +212,8 @@
 [Introduction to Partial Differential Equations](
 https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_Partial_Differential_Equations_(Herman))
 
+[Introduction to Probability for Computing](http://www.cs.cmu.edu/~harchol/Probability/book.html)
+
 [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)
 
 [Introduction to Smooth Manifolds](https://sagemanifolds.obspm.fr/intro_to_manifolds.html)        
@@ -327,6 +329,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 [Probabilistic Machine Learning Book](https://probml.github.io/pml-book/book2.html)                 
 
 [Probabilistic Numerics](https://www.probabilistic-numerics.org/textbooks/)    
+
+[Probability & Statistics with Applications to Computing](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf) 
 
 [Probability for Data Science](https://probability4datascience.com/)      
 
