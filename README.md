@@ -4,6 +4,9 @@
 
 ### A
 
+[A Business Analyst’s Introduction to Business Analytics](https://www.causact.com/)
+
+
 [Algorithmic Game Theory ](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) 
 
 [Algorithmic High-Dimensional Robust Statistics](https://sites.google.com/view/ars-book/)
@@ -49,9 +52,6 @@
           
 
 [Bayes Rules](https://www.bayesrulesbook.com/)     
-
-
-[A Business Analyst’s Introduction to Business Analytics](https://www.causact.com/)
 
 
 
