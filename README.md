@@ -263,6 +263,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Machine Learning Story](https://mlstory.org/)          
 
+[Mathematics and Computation](https://www.math.ias.edu/avi/book)
+
 [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
 
 [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://github.com/introdeeplearning/book)
