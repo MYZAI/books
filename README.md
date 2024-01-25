@@ -401,7 +401,7 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Spatial Statistics for Data Science](https://www.paulamoraga.com/book-spatial/) 
 
-
+[State Space Models: A Modern Approach](https://probml.github.io/ssm-book/root.html)
 
 [Stochastic Differential Equations: An Introduction with Applications in Population Dynamics Modeling](https://users.aalto.fi/~asolin/sde-book/sde-book.pdf) 
 
