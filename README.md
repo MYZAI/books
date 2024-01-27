@@ -412,15 +412,15 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
 
+[The Mechanics of Proof](https://hrmacbeth.github.io/math2001)
 
 [The Science of Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/)      
 
 [The Systems Bible](https://book.systemsapproach.org/)                             
 
-[Think Stats](https://greenteapress.com/wp/think-stats-2e/)
-
 [The Time Series Handbook](https://phdinds-aim.github.io/time_series_handbook)     
 
+[Think Stats](https://greenteapress.com/wp/think-stats-2e/)
 
 [Tidy Finance with R](https://www.tidy-finance.org/)  
 
