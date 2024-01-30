@@ -11,6 +11,8 @@
 
 [Algorithmic High-Dimensional Robust Statistics](https://sites.google.com/view/ars-book/)
 
+[Algorithmic Marketing](https://algorithmicweb.wordpress.com/)
+
 [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) 
 
 [Algorithms, Part I](https://algs4.cs.princeton.edu/home/)        
@@ -122,6 +124,8 @@
 [Elements of Applied Functional Analysis](https://www.ams.org/open-math-notes/omn-view-listing?listingId=111364)  
 
 [Elements of Causal Inference](http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf) 
+
+[Enterprise AI](https://www.enterprise-ai-book.com/)
 
 
 
