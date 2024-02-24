@@ -36,6 +36,8 @@
 
 [Annotated Algorithms in Python](https://github.com/mdipierro/nlib)       
 
+[Applied Causal Inference Powered by ML and AI](https://causalml-book.org/)
+
 [Applied Machine Learning](https://kuleshov-group.github.io/aml-book/intro.html)
 
 
