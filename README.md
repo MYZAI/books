@@ -344,6 +344,7 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Probability for Data Science](https://probability4datascience.com/)      
 
+[Probability: Theory and Examples](https://services.math.duke.edu/~rtd/PTE/pte.html)
 
 [Probability Theory: The Logic of Science](http://prob140.org/textbook/content/README.html)          
 
