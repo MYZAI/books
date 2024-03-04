@@ -69,7 +69,7 @@
 
 [Complex Analysis](https://complex-analysis.com/)         
 
-[Computational and Inferential Thinking](https://greenteapress.com/wp/think-stats-2e/)      
+[Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html)
 
 [Computational Complexity](https://hardness.mit.edu/)                
 
