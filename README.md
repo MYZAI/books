@@ -127,7 +127,7 @@
 
 [Enterprise AI](https://www.enterprise-ai-book.com/)
 
-
+[Equivariant and Coordinate Independent Convolutional Networks](https://maurice-weiler.gitlab.io/#cnn_book)
 
 
 ### F
