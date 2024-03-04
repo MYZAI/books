@@ -13,11 +13,9 @@
 
 [Algorithmic Marketing](https://algorithmicweb.wordpress.com/)
 
-[Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) 
+[Algorithms (Erickson)](https://jeffe.cs.illinois.edu/teaching/algorithms/) 
 
-[Algorithms](https://algs4.cs.princeton.edu/home/)        
-
-[Algorithms, Part II](https://algs4.cs.princeton.edu/home/)   
+[Algorithms (Sedgewick, Wayne )](https://algs4.cs.princeton.edu/home/)        
 
 [Algorithms for Optimization](https://algorithmsbook.com/optimization/)       
 
