@@ -15,7 +15,7 @@
 
 [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) 
 
-[Algorithms, Part I](https://algs4.cs.princeton.edu/home/)        
+[Algorithms](https://algs4.cs.princeton.edu/home/)        
 
 [Algorithms, Part II](https://algs4.cs.princeton.edu/home/)   
 
@@ -23,6 +23,8 @@
 
 
 [Algorithms for Reinforcement Learning](https://algorithmsbook.com/#)     
+
+ [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
 
 [An Introduction to Graph Theory](https://www.cip.ifi.lmu.de/~grinberg/t/22s/graphs.pdf)       
 
