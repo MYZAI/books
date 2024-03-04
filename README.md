@@ -24,8 +24,6 @@
 
 [Algorithms for Reinforcement Learning](https://algorithmsbook.com/#)     
 
-[An Introduction to Formal Languages and Automata](https://www.cs.indiana.edu/ebooks/automata/automata.pdf)   
-
 [An Introduction to Graph Theory](https://www.cip.ifi.lmu.de/~grinberg/t/22s/graphs.pdf)       
 
 [An Introduction to Quantum Computing](https://physics.weber.edu/schroeder/quantum/QuantumBook.pdf)       
