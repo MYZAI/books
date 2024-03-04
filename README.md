@@ -125,6 +125,8 @@
 
 [Elements of Causal Inference](http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf) 
 
+[Elements of Robotics](https://link.springer.com/content/pdf/10.1007/978-3-319-62533-1.pdf)      
+
 [Enterprise AI](https://www.enterprise-ai-book.com/)
 
 [Equivariant and Coordinate Independent Convolutional Networks](https://maurice-weiler.gitlab.io/#cnn_book)
@@ -387,8 +389,6 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems)
 
 [Robotics](https://www.roboticsbook.org/intro.html)     
-
-[Robotics, Vision and Control](https://link.springer.com/content/pdf/10.1007/978-3-319-62533-1.pdf)      
 
 [ROS2 Multi Robot Book](https://osrf.github.io/ros2multirobotbook/)                                                      
 
