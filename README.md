@@ -230,9 +230,6 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html)      
 
 
-[Introduction to the Theory of Computation](https://introtcs.org/)    
-
-
 ### L
 
 [Learnable Evolution Model](https://fleuret.org/public/lbdl.pdf)                
