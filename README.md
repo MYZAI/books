@@ -318,7 +318,9 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Numerical Optimization](https://sma.epfl.ch/~nboumal/book/index.html)     
 
+### O
 
+[Ordinary Differential Equations and Dynamical Systems](https://www.mat.univie.ac.at/~gerald/ftp/book-ode/)
 
 ### P
 
