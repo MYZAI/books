@@ -165,6 +165,8 @@
 
 ### H
 
+[Handbook of Regression Modeling in People Analytics](https://peopleanalytics-regression-book.org/)
+
 [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)      
 
 [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html) 
