@@ -328,6 +328,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 ### P
 
+[Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications](https://book.sciml.ai/)
+
 [Partial Differential Equations](https://math.libretexts.org/Bookshelves/Differential_Equations/Book%3A_Partial_Differential_Equations_(Walet)) 
 
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
