@@ -60,7 +60,7 @@
 
 ### C
 
-[https://www.whitman.edu/mathematics/calculus_online](Calculus: early transcendentals)
+[Calculus: early transcendentals](https://www.whitman.edu/mathematics/calculus_online)
 
 [Calculus with Julia Notes](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)                                      
 
