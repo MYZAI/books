@@ -60,6 +60,8 @@
 
 ### C
 
+[https://www.whitman.edu/mathematics/calculus_online](Calculus: early transcendentals)
+
 [Calculus with Julia Notes](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)                                      
 
 [Causal Inference: The Mixtape](https://www.causact.com/)   
