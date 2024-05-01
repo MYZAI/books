@@ -26,7 +26,9 @@
 
 [An Introduction to Graph Theory](https://www.cip.ifi.lmu.de/~grinberg/t/22s/graphs.pdf)       
 
-[An Introduction to Quantum Computing](https://physics.weber.edu/schroeder/quantum/QuantumBook.pdf)       
+[An Introduction to Quantum Computing](https://physics.weber.edu/schroeder/quantum/QuantumBook.pdf)  
+
+[An Introduction to R](https://intro2r.com/)
 
 [An Introduction to Statistical Learning](https://www.statlearning.com/)       
 
