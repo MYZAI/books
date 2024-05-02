@@ -219,7 +219,9 @@
 [Introduction to Information Theory](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf) 
 
 
-[Introduction to Linear Algebra](https://textbooks.math.gatech.edu/ila/)                        
+[Introduction to Linear Algebra](https://textbooks.math.gatech.edu/ila/)      
+
+[Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 
 
 [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html)      
