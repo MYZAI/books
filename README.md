@@ -6,6 +6,7 @@
 
 [A Business Analyst’s Introduction to Business Analytics](https://www.causact.com/)
 
+[Advanced Calculus For Data Science](https://www.math.emory.edu/~mpcarr/math210/book.pdf)
 
 [Algorithmic Game Theory ](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) 
 
