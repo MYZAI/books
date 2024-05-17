@@ -116,6 +116,8 @@
 
 [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)
 
+[Discover Linear Algebra](https://people.cs.uchicago.edu/~laci/HANDOUTS/linalgbook.pdf)
+
 [Distributional Reinforcement Learning](https://www.distributional-rl.org/)                   
 
 
