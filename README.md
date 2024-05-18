@@ -178,6 +178,8 @@
 
 [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)      
 
+[Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book/intro.html)
+
 [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html) 
 
 
