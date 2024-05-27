@@ -21,11 +21,13 @@
 [Algorithms for Optimization](https://algorithmsbook.com/optimization/)       
 
 
-[Algorithms for Reinforcement Learning](https://algorithmsbook.com/#)     
+[Algorithms for Reinforcement Learning](https://algorithmsbook.com/#)    
+
+[Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
 
 [An infinite descent into pure mathematics](https://www.math.cmu.edu/~cnewstea/teaching/old/teaching/15-151-N17/infdesc.pdf)
 
- [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
+[An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
 
 [An Introduction to Graph Theory](https://www.cip.ifi.lmu.de/~grinberg/t/22s/graphs.pdf)       
 
