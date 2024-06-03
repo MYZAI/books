@@ -20,6 +20,8 @@
 
 [Algorithms (Sedgewick, Wayne )](https://algs4.cs.princeton.edu/home/)        
 
+[Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
+
 [Algorithms for Optimization](https://algorithmsbook.com/optimization/)       
 
 
