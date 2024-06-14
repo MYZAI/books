@@ -1,6 +1,4 @@
-# Kitaplar
-
-## Yapay zeka, hesaplama, uygulamalı matematik ve ilgili alanlarda açık erişimli kitaplar. 
+# Open Access Books in AI, computing, applied math and related areas
 
 ### A
 
