@@ -144,6 +144,8 @@
 
 [Equivariant and Coordinate Independent Convolutional Networks](https://maurice-weiler.gitlab.io/#cnn_book)
 
+[Explainable Human-AI Interaction: A Planning Perspective](https://arxiv.org/abs/2405.15804)
+
 
 ### F
 
