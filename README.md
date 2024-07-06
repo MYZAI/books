@@ -468,6 +468,9 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Uncertain: Modern Topics in Uncertainty Estimation](https://www.cis.upenn.edu/~aaroth/uncertainty-notes.pdf)
 
+### V
+
+[Vector Calculus](https://www.mecmath.net/)
 
 
 
