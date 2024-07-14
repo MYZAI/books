@@ -37,7 +37,9 @@
 
 [An Introduction to R](https://intro2r.com/)
 
-[An Introduction to Statistical Learning](https://www.statlearning.com/)       
+[An Introduction to Statistical Learning](https://www.statlearning.com/)   
+
+[ An Invitation to Statistics in Wasserstein Space](https://link.springer.com/book/10.1007/978-3-030-38438-8)
 
 [An Owner's Guide to the Human Genome](https://web.stanford.edu/group/pritchardlab/HGbook.html)
 
