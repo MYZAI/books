@@ -433,6 +433,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [State Space Models: A Modern Approach](https://probml.github.io/ssm-book/root.html)
 
+[Statistical optimal transport](https://arxiv.org/abs/2407.18163)
+
 [Stochastic Differential Equations: An Introduction with Applications in Population Dynamics Modeling](https://users.aalto.fi/~asolin/sde-book/sde-book.pdf) 
 
 ### T
