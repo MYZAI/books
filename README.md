@@ -160,6 +160,8 @@
 
 [Foundations of Vector Retrieval](https://arxiv.org/pdf/2401.09350.pdf)
 
+[From Text to Insight: Large Language Models for Materials Science Data Extraction](https://matextract.pub/#)
+
 [Functional Data Structures and Algorithms](https://functional-algorithms-verified.org/)
 
 [Fundamentals of Numerical Computation](https://tobydriscoll.net/fnc-julia/frontmatter.html) 
