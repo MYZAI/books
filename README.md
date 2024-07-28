@@ -405,6 +405,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Random Matrix Methods for Machine Learning](https://zhenyu-liao.github.io/book/)
 
+[Ray Tracing in One Weekend](https://raytracing.github.io/)
+
 [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)        
 
 [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)     
