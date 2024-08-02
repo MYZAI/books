@@ -290,6 +290,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Machine Learning Story](https://mlstory.org/)          
 
+[Markov Chains and Mixing Times](https://pages.uoregon.edu/dlevin/MARKOV/)
+
 [Mathematics and Computation](https://www.math.ias.edu/avi/book)
 
 
