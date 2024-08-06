@@ -466,6 +466,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Tidy Finance with R](https://www.tidy-finance.org/)  
 
+[Topological Deep Learning: Going Beyond Graph Data](https://tdlbook.org/)
+
 [Trustworthy Machine Learning](http://www.trustworthymachinelearning.com)           
 
 
