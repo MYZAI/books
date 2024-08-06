@@ -52,6 +52,8 @@
 
 [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.html) 
 
+[Artificial Intelligence and Games](https://gameaibook.org/)
+
 
 
 ### B 
