@@ -446,6 +446,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Stochastic Differential Equations: An Introduction with Applications in Population Dynamics Modeling](https://users.aalto.fi/~asolin/sde-book/sde-book.pdf) 
 
+[Supervised Machine Learning for Science](https://ml-science-book.com/)
+
 ### T
 
 [Technical Analysis with R (Second Edition)](https://bookdown.org/kochiuyu/technical-analysis-with-r-second-edition2/)  
