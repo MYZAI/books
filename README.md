@@ -111,6 +111,7 @@
 
 [Deep Learning](https://www.bishopbook.com/)
 
+[Deep Learning for Computational Imaging](https://github.com/MLI-lab/deep_inverse_book.github.io/blob/main/assets/deep_inverse_reader.pdf)
 
 [Deep Learning on Graphs](https://yaoma24.github.io/dlg_book/)           
 
