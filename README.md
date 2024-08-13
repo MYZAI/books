@@ -94,6 +94,8 @@
 
 [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)          
 
+[Contraction Theory for Dynamical Systems](https://fbullo.github.io/ctds/)
+
 
 [Controls Engineering in FRC](https://file.tavsys.net/control/controls-engineering-in-frc.pdf)     
 
@@ -272,6 +274,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 
 [Lecture Notes on Financial Mathematics](https://arxiv.org/pdf/1912.13213.pdf)     
+
+[Lectures on Network Systems](https://fbullo.github.io/lns/)
 
 [Linear Algebra Done Right](https://linear.axler.net/)
 
