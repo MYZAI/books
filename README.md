@@ -6,6 +6,8 @@
 
 [A First Course in Monte Carlo Methods](https://arxiv.org/abs/2405.16359)
 
+[Advanced Calculus](https://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf)
+
 [Advanced Calculus For Data Science](https://www.math.emory.edu/~mpcarr/math210/book.pdf)
 
 [Algorithmic Game Theory ](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) 
