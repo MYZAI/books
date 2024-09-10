@@ -6,6 +6,8 @@
 
 [A First Course in Monte Carlo Methods](https://arxiv.org/abs/2405.16359)
 
+[Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://direct.mit.edu/books/oa-monograph/5299/Active-InferenceThe-Free-Energy-Principle-in-Mind)
+
 [Advanced Calculus](https://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf)
 
 [Advanced Calculus For Data Science](https://www.math.emory.edu/~mpcarr/math210/book.pdf)
@@ -244,6 +246,8 @@
 
 
 [Introduction to Linear Algebra](https://textbooks.math.gatech.edu/ila/)      
+
+[Introduction to Machine Learning](https://arxiv.org/abs/2409.02668)
 
 [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 
