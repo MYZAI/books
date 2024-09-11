@@ -467,6 +467,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 
+[The Fourier Transform](https://jamesstone.sites.sheffield.ac.uk/books/the-fourier-transform)
+
 [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
 
 [The Mechanics of Proof](https://hrmacbeth.github.io/math2001)
