@@ -6,6 +6,8 @@
 
 [A First Course in Monte Carlo Methods](https://arxiv.org/abs/2405.16359)
 
+[A First Course in Partial Differential Equations](https://people.uncw.edu/hermanr/pde1/PDE1notes/index.htm)
+
 [Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://direct.mit.edu/books/oa-monograph/5299/Active-InferenceThe-Free-Energy-Principle-in-Mind)
 
 [Advanced Calculus](https://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf)
