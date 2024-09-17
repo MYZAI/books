@@ -186,6 +186,8 @@
 
 [Geospatial Data Science with Leafmap](https://book.leafmap.org/index.html)
 
+[Gödel’s Theorems](https://www.logicmatters.net/igt/)
+
 [Graph Neural Networks](https://graph-neural-networks.github.io/index.html)   
 
 [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)          
