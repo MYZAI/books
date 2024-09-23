@@ -131,6 +131,8 @@
 
 [Differential Equations (Chasnov)](https://math.libretexts.org/Bookshelves/Differential_Equations/Differential_Equations_(Chasnov))
 
+[ Differential Geometry: From Elastic Curves to Willmore Surfaces ](https://olligross.github.io/projects/DGCS/DGCS_project.html)
+
 [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)
 
 [Discover Linear Algebra](https://people.cs.uchicago.edu/~laci/HANDOUTS/linalgbook.pdf)
