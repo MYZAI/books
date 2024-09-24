@@ -434,6 +434,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Ray Tracing in One Weekend](https://raytracing.github.io/)
 
+[Recommendation with Generative Models](https://arxiv.org/abs/2409.15173)
+
 [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)        
 
 [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)     
