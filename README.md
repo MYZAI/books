@@ -313,6 +313,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Mathematics and Computation](https://www.math.ias.edu/avi/book)
 
+[Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+
 
 [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://github.com/introdeeplearning/book)
 
