@@ -373,6 +373,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 ### O
 
+[Odds & Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/)
+
 [Ordinary Differential Equations and Dynamical Systems](https://www.mat.univie.ac.at/~gerald/ftp/book-ode/)
 
 ### P
