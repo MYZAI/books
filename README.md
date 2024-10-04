@@ -391,6 +391,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Physics-Based Simulation](https://phys-sim-book.github.io/preface.html)
 
+[Portfolio Optimization](https://bookdown.org/palomar/portfoliooptimizationbook/)
+
 [Probabilistic Machine Learning Book 1](https://probml.github.io/pml-book/book1.html)                  
 
 [Probabilistic Machine Learning Book](https://probml.github.io/pml-book/book2.html)                 
