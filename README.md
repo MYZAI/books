@@ -33,7 +33,7 @@
 
 [Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
 
-[An infinite descent into pure mathematics](https://www.math.cmu.edu/~cnewstea/teaching/old/teaching/15-151-N17/infdesc.pdf)
+[An infinite descent into pure mathematics](An Infinite Descent into Pure Mathematics)
 
 [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
 
