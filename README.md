@@ -381,6 +381,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 ### P
 
+[Painful intelligence](https://www.cs.helsinki.fi/u/ahyvarin/painintl/)
+
 [Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications](https://book.sciml.ai/)
 
 [Partial Differential Equations](https://math.libretexts.org/Bookshelves/Differential_Equations/Book%3A_Partial_Differential_Equations_(Walet)) 
