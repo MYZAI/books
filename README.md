@@ -500,6 +500,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [The Time Series Handbook](https://phdinds-aim.github.io/time_series_handbook)     
 
+[Theoretical Foundations of Conformal Prediction](https://arxiv.org/abs/2411.11824)
+
 [Think Stats](https://greenteapress.com/wp/think-stats-2e/)
 
 [Tidy Finance with R](https://www.tidy-finance.org/)  
