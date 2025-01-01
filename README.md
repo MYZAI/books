@@ -293,6 +293,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Linear Algebra Done Right](https://linear.axler.net/)
 
+[Linear Algebra Essence & Form](https://www2.math.upenn.edu/~ghrist/preprints/LAEF.pdf)
+
 [Linear Algebra, Theory And Application](https://klkuttler.com/book/Linearalgebra/1)
 
 [Log-Concave Sampling](https://chewisinho.github.io/main.pdf)        
