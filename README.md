@@ -322,6 +322,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://github.com/introdeeplearning/book)
 
+[Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
+
 [Mathematics for Machine Learning](https://mml-book.github.io/)    
 
 
