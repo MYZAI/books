@@ -225,6 +225,8 @@
 
 [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)   
 
+[Introduction to AI Safety, Ethics, and Society](https://www.aisafetybook.com/)
+
 
 [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)    
 
