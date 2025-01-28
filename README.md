@@ -171,6 +171,8 @@
 
 [Forecasting: Principles and Practice](https://otexts.com/fpp3/)    
 
+[Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
+
 [Foundation Models for Natural Language Processing](https://link.springer.com/book/10.1007/978-3-031-23190-2)     
 
 [Foundations of Vector Retrieval](https://arxiv.org/pdf/2401.09350.pdf)
@@ -454,13 +456,17 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)        
 
-[Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)     
+[Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)    
+
+[Reinforcement Learning: An Overview](Reinforcement Learning: An Overview)
 
 
 [Reinforcement Learning for Finance](https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf)    
 
 
-[Reinforcement Learning Theory](https://rltheorybook.github.io/)                 
+[Reinforcement Learning Theory](https://rltheorybook.github.io/)         
+
+[RLHF Book](https://github.com/natolambert/rlhf-book)
 
 [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems)
 
