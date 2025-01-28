@@ -330,6 +330,7 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Mathematics for Machine Learning](https://mml-book.github.io/)    
 
+[Matrix Calculus](https://arxiv.org/abs/2501.14787)
 
 [Measure Theory](https://measure.axler.net/)   
 
