@@ -458,7 +458,7 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)    
 
-[Reinforcement Learning: An Overview](Reinforcement Learning: An Overview)
+[Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.0526)
 
 
 [Reinforcement Learning for Finance](https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf)    
