@@ -362,8 +362,9 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Network Science](http://networksciencebook.com/)
 
-[Neural Networks for Chess](https://arxiv.org/abs/2209.01506
-)
+[Neural Networks for Chess](https://arxiv.org/abs/2209.01506)
+
+[Nonequilibrium and Irreversibility](https://arxiv.org/abs/2501.12426)
 
 [Notes on Continuous Optimization](https://arxiv.org/pdf/2206.13446.pdf)           
 
