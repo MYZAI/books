@@ -443,7 +443,9 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Qiskit Textbook](https://qiskit.org/learn/)                                                                              
 
-[Quantum Computing for Computer Scientists](https://quantum.country/qcvc)                                                
+[Quantum Computing for Computer Scientists](https://quantum.country/qcvc)    
+
+[Quantum Machine Learning](https://arxiv.org/abs/2502.01146)
 
 
 ### R
