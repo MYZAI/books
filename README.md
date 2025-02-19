@@ -321,6 +321,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Mathematics and Computation](https://www.math.ias.edu/avi/book)
 
+[Mathematics for Computer Science](https://commons.libretexts.org/book/eng-43989)
+
 [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 
 
