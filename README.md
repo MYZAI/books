@@ -282,6 +282,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 ### L
 
+[Learn Multibody Dynamics](https://moorepants.github.io/learn-multibody-dynamics/)
+
 [Learnable Evolution Model](https://fleuret.org/public/lbdl.pdf)                
 
 
