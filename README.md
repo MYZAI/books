@@ -321,6 +321,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Markov Chains and Mixing Times](https://pages.uoregon.edu/dlevin/MARKOV/)
 
+[Mastering Reinforcement Learning](https://uq.pressbooks.pub/mastering-reinforcement-learning)
+
 [Mathematics and Computation](https://www.math.ias.edu/avi/book)
 
 [Mathematics for Computer Science](https://commons.libretexts.org/book/eng-43989)
