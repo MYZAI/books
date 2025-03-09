@@ -37,7 +37,9 @@
 
 [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
 
-[An Introduction to Graph Theory](https://www.cip.ifi.lmu.de/~grinberg/t/22s/graphs.pdf)       
+[An Introduction to Graph Theory](https://www.cip.ifi.lmu.de/~grinberg/t/22s/graphs.pdf)  
+
+[An Introduction to Mathematical Reasoning](https://sites.math.washington.edu/~conroy/m300-general/ConroyTaggartIMR.pdf)
 
 [An Introduction to Quantum Computing](https://physics.weber.edu/schroeder/quantum/QuantumBook.pdf)  
 
