@@ -14,6 +14,8 @@
 
 [Advanced Calculus For Data Science](https://www.math.emory.edu/~mpcarr/math210/book.pdf)
 
+[Advanced Differential Equations: Asymptotics & Perturbations](https://arxiv.org/abs/2012.14591)
+
 [Algorithmic Game Theory ](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf) 
 
 [Algorithmic High-Dimensional Robust Statistics](https://sites.google.com/view/ars-book/)
