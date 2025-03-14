@@ -506,6 +506,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Supervised Machine Learning for Science](https://ml-science-book.com/)
 
+[Symmetries of Living Systems](https://arxiv.org/pdf/2502.18713)
+
 ### T
 
 [Technical Analysis with R (Second Edition)](https://bookdown.org/kochiuyu/technical-analysis-with-r-second-edition2/)  
