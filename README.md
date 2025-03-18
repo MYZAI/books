@@ -1,3 +1,5 @@
+! No longer maintained, please look at https://github.com/unverciftci/books
+
 # Open access books in AI, computing, applied math and related areas
 
 ### A
