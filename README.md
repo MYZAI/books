@@ -443,6 +443,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Python for Data Science](https://aeturrell.github.io/python4DS)    
 
+[Physical Principles of Quantum Biology](https://arxiv.org/abs/2503.11747)
+
 
 ### Q
 
